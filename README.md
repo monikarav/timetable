@@ -110,10 +110,10 @@ Execute the program
 </html>
 ```
 # OUTPUT
-![OUTPUT](./hm.png)
+![OUTPUT](./tm.png)
 
 # HTML VALIDATOR
-![OUTPUT](./tm.png)
+![OUTPUT](./hm.png)
 
 # RESULT
 The program executed successfully
